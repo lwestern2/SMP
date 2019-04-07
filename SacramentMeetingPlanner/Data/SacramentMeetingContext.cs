@@ -12,13 +12,13 @@ namespace SacramentMeetingPlanner.Data
         public DbSet<Member> Members { get; set; }
         public DbSet<Sacrament> Sacrament { get; set; }
         public DbSet<Assignment> Assignments { get; set; }
-
+        
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Speaker>().ToTable("Speaker");
+            modelBuilder.Entity<Speaker>().ToTable("Speakers");
             modelBuilder.Entity<Member>().ToTable("Member");
             modelBuilder.Entity<Sacrament>().ToTable("Sacrament");
-            modelBuilder.Entity<Assignment>().ToTable("Assignment");
+            modelBuilder.Entity<Assignment>().ToTable("Assignments");
 
         }
     }

@@ -12948,11 +12948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\humbl\\source\\repos\\SacramentMeetingPlannerBroken\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
+      "projectUniqueName": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
       "projectName": "SacramentMeetingPlanner",
-      "projectPath": "C:\\Users\\humbl\\source\\repos\\SacramentMeetingPlannerBroken\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
+      "projectPath": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
       "packagesPath": "C:\\Users\\humbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\humbl\\source\\repos\\SacramentMeetingPlannerBroken\\SacramentMeetingPlanner\\obj\\",
+      "outputPath": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -13,6 +13,6 @@ namespace SacramentMeetingPlanner.Models
         public string Topic { get; set; }
 
         public ICollection<Sacrament> Sacrament { get; set; }
-
+        public ICollection<Member> Member { get; set; }
     }
 }

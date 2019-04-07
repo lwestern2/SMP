@@ -10,10 +10,6 @@ namespace SacramentMeetingPlanner.Models
         public string LastName { get; set; }
         public bool Bishopric { get; set; }
 
-        //public ICollection<Speaker> Prayer { get; set; }
-
-        public ICollection<Sacrament> Sacrament { get; set; }
-
 
     }
 }

@@ -13,5 +13,9 @@ namespace SacramentMeetingPlanner.Models
         public string OpeningHymn { get; set; }
         public string IntermediateHymn { get; set; }
         public string ClosingHymn { get; set; }
+
+
+
+
     }
 }

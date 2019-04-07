@@ -6,14 +6,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SacramentMeetingPlanner.Models;
+using SacramentMeetingPlanner.Data;
 
 namespace SacramentMeetingPlanner.Controllers
 {
     public class MembersController : Controller
     {
-        private readonly SacramentMeetingPlannerContext _context;
+        private readonly SacramentMeetingContext _context;
 
-        public MembersController(SacramentMeetingPlannerContext context)
+        public MembersController(SacramentMeetingContext context)
         {
             _context = context;
         }
@@ -21,7 +22,7 @@ namespace SacramentMeetingPlanner.Controllers
         // GET: Members
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Member.ToListAsync());
+            return View(await _context.Members.ToListAsync());
         }
 
         // GET: Members/Details/5
@@ -32,7 +33,7 @@ namespace SacramentMeetingPlanner.Controllers
                 return NotFound();
             }
 
-            var member = await _context.Member
+            var member = await _context.Members
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (member == null)
             {
@@ -72,7 +73,7 @@ namespace SacramentMeetingPlanner.Controllers
                 return NotFound();
             }
 
-            var member = await _context.Member.FindAsync(id);
+            var member = await _context.Members.FindAsync(id);
             if (member == null)
             {
                 return NotFound();
@@ -123,7 +124,7 @@ namespace SacramentMeetingPlanner.Controllers
                 return NotFound();
             }
 
-            var member = await _context.Member
+            var member = await _context.Members
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (member == null)
             {
@@ -138,15 +139,15 @@ namespace SacramentMeetingPlanner.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var member = await _context.Member.FindAsync(id);
-            _context.Member.Remove(member);
+            var member = await _context.Members.FindAsync(id);
+            _context.Members.Remove(member);
             await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool MemberExists(int id)
         {
-            return _context.Member.Any(e => e.ID == id);
+            return _context.Members.Any(e => e.ID == id);
         }
     }
 }

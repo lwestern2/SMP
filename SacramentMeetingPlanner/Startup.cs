@@ -9,6 +9,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.EntityFrameworkCore;
 using SacramentMeetingPlanner.Models;
+using SacramentMeetingPlanner.Data;
 
 namespace SacramentMeetingPlanner
 {
@@ -31,12 +32,15 @@ namespace SacramentMeetingPlanner
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-            services.AddDbContext<SacramentMeetingPlannerContext>(options =>
+            services.AddDbContext<SacramentMeetingContext>(options =>
                 options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
 
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+
+            services.AddDbContext<SacramentMeetingContext>(options =>
+                    options.UseSqlServer(Configuration.GetConnectionString("SacramentMeetingPlannerContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
