@@ -7,7 +7,7 @@
 <h1>Members</h1>
 
 <p>
-    <a asp-action="Create">Create New Member</a>
+    <a asp-action="Create" class="button">Create New Member</a>
 </p>
 
 <form asp-action="Index" method="get">
@@ -15,7 +15,7 @@
         <p>
             Search name: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
             <input type="submit" value="Search" class="btn btn-default" /> |
-            <a asp-action="Index">Back to Full List</a>
+            <a asp-action="Index" class="no-btn">Back to Full List</a>
         </p>
     </div>
 </form>
@@ -27,12 +27,14 @@
                 @Html.DisplayNameFor(model => model.FirstName)
             </th>
             <th>
-                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.LastName)</a>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" class="filter">@Html.DisplayNameFor(model => model.LastName)<img src="~/images/sort-solid.svg" alt="Sort" style="width:20px;height:15px;"/></a>
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Bishopric)
             </th>
-            <th></th>
+            <th>
+                Actions
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -48,7 +50,7 @@
                 @Html.DisplayFor(modelItem => item.Bishopric)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ID"><img src="~/images/edit-regular.svg" alt="Edit" style="width:20px;height:15px;" /></a> |
+                <a asp-action="Edit" asp-route-id="@item.ID" class="icon"><img src="~/images/edit-regular.svg" alt="Edit" style="width:20px;height:15px;" /></a> |
                 <a asp-action="Details" asp-route-id="@item.ID"><img src="~/images/eye-solid.svg" alt="Details" style="width:20px;height:15px;" /></a> |
                 <a asp-action="Delete" asp-route-id="@item.ID"><img src="~/images/trash-solid.svg" alt="Delete" style="width:20px;height:15px;" /></a>
             </td>
