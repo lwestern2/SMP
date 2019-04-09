@@ -141,11 +141,6 @@ C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\V
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Create.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Delete.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Details.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Edit.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Index.g.cshtml.cs
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
@@ -168,3 +163,8 @@ C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Ra
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Details.g.cshtml.cs
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Edit.g.cshtml.cs
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Index.g.cshtml.cs
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Create.g.cshtml.cs
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Delete.g.cshtml.cs
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Details.g.cshtml.cs
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Edit.g.cshtml.cs
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Index.g.cshtml.cs
