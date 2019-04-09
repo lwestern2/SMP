@@ -13,8 +13,6 @@ namespace SacramentMeetingPlanner.Models
         public string assignment { get; set; }
 
         public Member Member { get; set; }
-        public Assignment Assignments { get; set; }
-
-
+       // public Assignment Assignments { get; set; }                               Hiram commented this line out in order for Member.cs model!
     }
 }

@@ -14,7 +14,7 @@ namespace SacramentMeetingPlanner.Models
         public Speaker Speakers { get; set; }
 
 
-        public ICollection<Assignment> Assignment { get; set; }
+        public ICollection<Assignment> Assignment { get; set; }                     // Hiram took out the 's' after assignment!
         //public ICollection<Speaker> Speaker { get; set; }
 
     }
