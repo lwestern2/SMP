@@ -7,7 +7,7 @@
 <h1>Sacrament Meeting</h1>
 
 <p>
-    <a asp-action="Create">Create New Meeting</a>
+    <a asp-action="Create" class="button">Create New Meeting</a>
 </p>
 
 <form asp-action="Index" method="get">
@@ -15,7 +15,7 @@
         <p>
             Search: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
             <input type="submit" value="Search" class="btn btn-default" /> |
-            <a asp-action="Index">Back to Full List</a>
+            <a asp-action="Index" class="no-btn">Back to Full List</a>
         </p>
     </div>
 </form>
@@ -24,10 +24,7 @@
     <thead>
         <tr>
             <th>
-                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.MeetingDate)</a>
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.MeetingDateString)
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]" class="no-btn">@Html.DisplayNameFor(model => model.MeetingDate)<img src="~/images/sort-solid.svg" alt="Sort" style="width:20px;height:15px;" /></a>
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.OpeningHymn)
@@ -38,7 +35,9 @@
             <th>
                 @Html.DisplayNameFor(model => model.ClosingHymn)
             </th>
-            <th></th>
+            <th>
+                Actions
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -46,9 +45,6 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.MeetingDate)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.MeetingDateString)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.OpeningHymn)

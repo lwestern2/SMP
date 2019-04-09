@@ -12956,23 +12956,24 @@
     ]
   },
   "packageFolders": {
-    "/Users/hiramtodd/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\leahb\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
+      "projectUniqueName": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
       "projectName": "SacramentMeetingPlanner",
-      "projectPath": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/SacramentMeetingPlanner.csproj",
-      "packagesPath": "/Users/hiramtodd/.nuget/packages/",
-      "outputPath": "/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/",
+      "projectPath": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
+      "packagesPath": "C:\\Users\\leahb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/hiramtodd/.config/NuGet/NuGet.Config"
+        "C:\\Users\\leahb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"

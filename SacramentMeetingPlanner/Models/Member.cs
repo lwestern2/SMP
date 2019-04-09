@@ -10,11 +10,11 @@ namespace SacramentMeetingPlanner.Models
         public string LastName { get; set; }
         public bool Bishopric { get; set; }
 
-        public Assignment Assignments { get; set; }
-        public Speaker Speakers { get; set; }
+        //public Assignment Assignments { get; set; }
+        //public Speaker Speakers { get; set; }
 
 
-        public ICollection<Assignment> Assignment { get; set; }                     // Hiram took out the 's' after assignment!
+        //public ICollection<Assignment> Assignment { get; set; }
         //public ICollection<Speaker> Speaker { get; set; }
 
     }
