@@ -20,9 +20,27 @@ namespace SacramentMeetingPlanner.Controllers
         }
 
         // GET: Assignments
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string sortOrder, string searchString)
         {
-            return View(await _context.Assignments.ToListAsync());
+            ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "Id" : "";
+            ViewData["CurrentFilter"] = searchString;
+
+            var assignment = from s in _context.Assignments
+                           select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                assignment = assignment.Where(s => s.assignment.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "Id":
+                    assignment = assignment.OrderByDescending(s => s.MemberID);
+                    break;
+                default:
+                    assignment = assignment.OrderBy(s => s.MeetingID);
+                    break;
+            }
+            return View(await assignment.AsNoTracking().ToListAsync());
         }
 
         // GET: Assignments/Details/5

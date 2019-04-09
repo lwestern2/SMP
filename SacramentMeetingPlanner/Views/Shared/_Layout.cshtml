@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - Sacrament Meeting Planner</title>
+    <title>@ViewData["Title"] | Sacrament Meeting Planner</title>
 
     <environment include="Development">
         <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.css" />
@@ -29,16 +29,16 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex flex-sm-row-reverse">
                     <ul class="navbar-nav flex-grow-1">
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-page="/Index">Home</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Planner" asp-action="Index">Planner</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Planner" asp-action="Index">Planner</a> <!--need planner controller link goes nowhere-->
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Members" asp-action="Index">Members</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Sacraments" asp-action="Index">View Meetings</a>
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Sacraments" asp-action="Index">Meetings</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Assignments" asp-action="Index">Assignments</a>
