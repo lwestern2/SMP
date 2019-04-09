@@ -11,11 +11,11 @@ using SacramentMeetingPlanner.Data;
 
 namespace SacramentMeetingPlanner.Controllers
 {
-    public class SacramentsController : Controller
+    public class SacramentController : Controller
     {
         private readonly SacramentMeetingContext _context;
 
-        public SacramentsController(SacramentMeetingContext context)
+        public SacramentController(SacramentMeetingContext context)
         {
             _context = context;
         }

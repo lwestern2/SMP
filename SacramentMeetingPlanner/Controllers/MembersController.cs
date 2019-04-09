@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using SacramentMeetingPlanner.Models;
 using SacramentMeetingPlanner.Data;
+using SacramentMeetingPlanner;
 
 namespace SacramentMeetingPlanner.Controllers
 {
@@ -52,7 +53,8 @@ namespace SacramentMeetingPlanner.Controllers
                 return NotFound();
             }
 
-            var member = await _context.Members
+            var member = await _context.Members.Include(a => a.Assignments)
+                    .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (member == null)
             {
