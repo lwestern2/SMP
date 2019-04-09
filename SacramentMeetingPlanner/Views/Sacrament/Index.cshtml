@@ -1,0 +1,70 @@
+﻿@model IEnumerable<SacramentMeetingPlanner.Models.Sacrament>
+
+@{
+    ViewData["Title"] = "Meeting";
+}
+
+<h1>Sacrament Meeting</h1>
+
+<p>
+    <a asp-action="Create">Create New Meeting</a>
+</p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Search: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.MeetingDate)</a>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MeetingDateString)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OpeningHymn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IntermediateHymn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ClosingHymn)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeetingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MeetingDateString)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OpeningHymn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IntermediateHymn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ClosingHymn)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID"><img src="~/images/edit-regular.svg" alt="Edit" style="width:20px;height:15px;" /></a> |
+                <a asp-action="Details" asp-route-id="@item.ID"><img src="~/images/eye-solid.svg" alt="Details" style="width:20px;height:15px;" /></a> |
+                <a asp-action="Delete" asp-route-id="@item.ID"><img src="~/images/trash-solid.svg" alt="Delete" style="width:20px;height:15px;" /></a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

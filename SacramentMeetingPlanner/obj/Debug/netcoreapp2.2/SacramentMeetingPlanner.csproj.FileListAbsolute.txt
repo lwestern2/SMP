@@ -103,11 +103,6 @@ C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Sa
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Create.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Delete.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Details.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Edit.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacraments\Index.g.cshtml.cs
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Create.g.cshtml.cs
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Delete.g.cshtml.cs
 C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Details.g.cshtml.cs
@@ -168,3 +163,8 @@ C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Sacrame
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
+C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Create.g.cshtml.cs
+C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Delete.g.cshtml.cs
+C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Details.g.cshtml.cs
+C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Edit.g.cshtml.cs
+C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Index.g.cshtml.cs

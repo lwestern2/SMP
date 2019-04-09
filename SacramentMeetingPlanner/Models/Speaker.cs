@@ -12,7 +12,8 @@ namespace SacramentMeetingPlanner.Models
         public int MeetingID { get; set; }
         public string Topic { get; set; }
 
-        public ICollection<Sacrament> Sacrament { get; set; }
-        public ICollection<Member> Member { get; set; }
+        public Member Member { get; set; }
+        public Assignment Assignments { get; set; }
+
     }
 }

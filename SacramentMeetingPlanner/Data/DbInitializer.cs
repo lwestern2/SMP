@@ -73,7 +73,7 @@ namespace SacramentMeetingPlanner.Data
                         assignment="Conducting"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
+                        MemberID=Members.Single(m => m.FirstName == "Arturgo").ID,
                         MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-14").ID,
                         assignment="OpeningPrayer"
                     },
@@ -268,9 +268,9 @@ namespace SacramentMeetingPlanner.Data
                     },
                     new Assignment
                     {
-                    MemberID=Members.Single(m => m.FirstName == "Yan").ID,
-                    MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-30").ID,
-                    assignment="Scripture Study"
+                        MemberID=Members.Single(m => m.FirstName == "Yan").ID,
+                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-30").ID,
+                        assignment="Scripture Study"
                     },
                     new Assignment
                     {
