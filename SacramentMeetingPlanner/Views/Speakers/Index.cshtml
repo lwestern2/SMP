@@ -1,19 +1,30 @@
 ﻿@model IEnumerable<SacramentMeetingPlanner.Models.Speaker>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Speakers";
 }
 
-<h1>Index</h1>
+<h1>Sacrament Speakers</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Create New Speaker</a>
 </p>
+
+<form asp-action="Index" method="get">
+    <div class="form-actions no-color">
+        <p>
+            Search: <input type="text" name="SearchString" value="@ViewData["currentFilter"]" />
+            <input type="submit" value="Search" class="btn btn-default" /> |
+            <a asp-action="Index">Back to Full List</a>
+        </p>
+    </div>
+</form>
+
 <table class="table">
     <thead>
         <tr>
             <th>
-                @Html.DisplayNameFor(model => model.MemberID)
+                <a asp-action="Index" asp-route-sortOrder="@ViewData["NameSortParm"]">@Html.DisplayNameFor(model => model.MemberID)</a>
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.MeetingID)
@@ -37,9 +48,9 @@
                 @Html.DisplayFor(modelItem => item.Topic)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.ID"><img src="~/images/edit-regular.svg" alt="Edit" style="width:20px;height:15px;" /></a> |
+                <a asp-action="Details" asp-route-id="@item.ID"><img src="~/images/eye-solid.svg" alt="Details" style="width:20px;height:15px;" /></a> |
+                <a asp-action="Delete" asp-route-id="@item.ID"><img src="~/images/trash-solid.svg" alt="Delete" style="width:20px;height:15px;" /></a>
             </td>
         </tr>
 }

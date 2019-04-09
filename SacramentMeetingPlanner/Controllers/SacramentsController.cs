@@ -21,9 +21,29 @@ namespace SacramentMeetingPlanner.Controllers
         }
 
         // GET: Sacraments
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string sortOrder, string searchString)
         {
-            return View(await _context.Sacrament.ToListAsync());
+            ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "date_desc" : "";
+            ViewData["CurrentFilter"] = searchString;
+
+            var meeting = from s in _context.Sacrament
+                         select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                meeting = meeting.Where(s => s.OpeningHymn.Contains(searchString)
+                                       || s.IntermediateHymn.Contains(searchString)
+                                       || s.ClosingHymn.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "date_desc":
+                    meeting = meeting.OrderByDescending(s => s.MeetingDate);
+                    break;
+                default:
+                    meeting = meeting.OrderBy(s => s.MeetingDate);
+                    break;
+            }
+            return View(await meeting.AsNoTracking().ToListAsync());
         }
 
         // GET: Sacraments/Details/5

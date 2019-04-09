@@ -12942,23 +12942,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\humbl\\.nuget\\packages\\": {},
+    "C:\\Users\\leahb\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
+      "projectUniqueName": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
       "projectName": "SacramentMeetingPlanner",
-      "projectPath": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
-      "packagesPath": "C:\\Users\\humbl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\humbl\\source\\New\\SMP\\SacramentMeetingPlanner\\obj\\",
+      "projectPath": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\SacramentMeetingPlanner.csproj",
+      "packagesPath": "C:\\Users\\leahb\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\leahb\\vs c#\\SMP\\SacramentMeetingPlanner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\humbl\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\leahb\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

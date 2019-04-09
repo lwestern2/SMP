@@ -14,9 +14,27 @@ namespace SacramentMeetingPlanner.Controllers
     {
         private readonly SacramentMeetingContext _context;
 
-        public SpeakersController(SacramentMeetingContext context)
+        public async Task<IActionResult> Index(string sortOrder, string searchString)
         {
-            _context = context;
+            ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "Id" : "";
+            ViewData["CurrentFilter"] = searchString;
+
+            var speaker = from s in _context.Speakers
+                             select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                speaker = speaker.Where(s => s.Topic.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "Id":
+                    speaker = speaker.OrderByDescending(s => s.MemberID);
+                    break;
+                default:
+                    speaker = speaker.OrderBy(s => s.MeetingID);
+                    break;
+            }
+            return View(await speaker.AsNoTracking().ToListAsync());
         }
 
         // GET: Speakers

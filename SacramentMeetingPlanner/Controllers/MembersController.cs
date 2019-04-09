@@ -20,9 +20,28 @@ namespace SacramentMeetingPlanner.Controllers
         }
 
         // GET: Members
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string sortOrder, string searchString)
         {
-            return View(await _context.Members.ToListAsync());
+            ViewData["NameSortParm"] = String.IsNullOrEmpty(sortOrder) ? "name_desc" : "";
+            ViewData["CurrentFilter"] = searchString;
+
+            var member = from s in _context.Members
+                           select s;
+            if (!String.IsNullOrEmpty(searchString))
+            {
+                member = member.Where(s => s.LastName.Contains(searchString)
+                                       || s.FirstName.Contains(searchString));
+            }
+            switch (sortOrder)
+            {
+                case "name_desc":
+                    member = member.OrderByDescending(s => s.LastName);
+                    break;
+                default:
+                    member = member.OrderBy(s => s.LastName);
+                    break;
+            }
+            return View(await member.AsNoTracking().ToListAsync());
         }
 
         // GET: Members/Details/5
