@@ -72,7 +72,7 @@ namespace SacramentMeetingPlanner.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,MemberID,MeetingID,assignment")] Assignment assignments)
+        public async Task<IActionResult> Create([Bind("ID,MemberID,MeetingID,assignment,Topic")] Assignment assignments)
         {
             if (ModelState.IsValid)
             {
@@ -104,7 +104,7 @@ namespace SacramentMeetingPlanner.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,MemberID,MeetingID,assignment")] Assignment assignments)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,MemberID,MeetingID,assignment,Topic")] Assignment assignments)
         {
             if (id != assignments.ID)
             {

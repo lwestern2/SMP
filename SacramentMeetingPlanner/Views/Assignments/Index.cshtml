@@ -32,7 +32,12 @@
             <th>
                 @Html.DisplayNameFor(model => model.assignment)
             </th>
-            <th></th>
+            <th>
+                @Html.DisplayNameFor(model => model.Topic)
+            </th>
+            <th>
+                Actions
+            </th>
         </tr>
     </thead>
     <tbody>
@@ -46,6 +51,9 @@
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.assignment)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Topic)
             </td>
             <td>
                 <a asp-action="Edit" asp-route-id="@item.ID"><img src="~/images/edit-regular.svg" alt="Edit" style="width:20px;height:15px;" /></a> |
