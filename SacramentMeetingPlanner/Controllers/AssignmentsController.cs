@@ -72,15 +72,15 @@ namespace SacramentMeetingPlanner.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,MemberID,MeetingID,assignment")] Assignment assignment)
+        public async Task<IActionResult> Create([Bind("ID,MemberID,MeetingID,assignment")] Assignment assignments)
         {
             if (ModelState.IsValid)
             {
-                _context.Add(assignment);
+                _context.Add(assignments);
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            return View(assignment);
+            return View(assignments);
         }
 
         // GET: Assignments/Edit/5
@@ -104,9 +104,9 @@ namespace SacramentMeetingPlanner.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,MemberID,MeetingID,assignment")] Assignment assignment)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,MemberID,MeetingID,assignment")] Assignment assignments)
         {
-            if (id != assignment.ID)
+            if (id != assignments.ID)
             {
                 return NotFound();
             }
@@ -115,12 +115,12 @@ namespace SacramentMeetingPlanner.Controllers
             {
                 try
                 {
-                    _context.Update(assignment);
+                    _context.Update(assignments);
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
                 {
-                    if (!AssignmentExists(assignment.ID))
+                    if (!AssignmentExists(assignments.ID))
                     {
                         return NotFound();
                     }
@@ -131,7 +131,7 @@ namespace SacramentMeetingPlanner.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            return View(assignment);
+            return View(assignments);
         }
 
         // GET: Assignments/Delete/5
