@@ -1,24 +1,19 @@
 ﻿<Properties StartupConfiguration="{FC83E417-4C20-4F32-B9E7-4468AA66F52F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Models/Speaker.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Views/Assignments/Details.cshtml">
     <Files>
-      <File FileName="SacramentMeetingPlanner/Views/Members/Details.cshtml" Line="19" Column="30" />
-      <File FileName="SacramentMeetingPlanner/Controllers/AssignmentsController.cs" Line="13" Column="52" />
-      <File FileName="SacramentMeetingPlanner/Models/Assignment.cs" Line="23" Column="1" />
-      <File FileName="SacramentMeetingPlanner/Models/Member.cs" Line="8" Column="6" />
-      <File FileName="SacramentMeetingPlanner/Models/ErrorViewModel.cs" Line="1" Column="1" />
-      <File FileName="SacramentMeetingPlanner/Models/Sacrament.cs" Line="23" Column="47" />
-      <File FileName="SacramentMeetingPlanner/Models/Speaker.cs" Line="1" Column="1" />
+      <File FileName="SacramentMeetingPlanner/Views/Assignments/Details.cshtml" Line="10" Column="22" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SacramentMeetingPlanner" expanded="True">
             <Node name="SacramentMeetingPlanner" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="Speaker.cs" selected="True" />
-              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Members" expanded="True" />
+                <Node name="Assignments" expanded="True">
+                  <Node name="Details.cshtml" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
