@@ -34,21 +34,28 @@
         </dt>
         <dd class="col-sm-10">
             <table class="table">
+            </table>
+        </dd>
+
+
+        <dt class=" col-sm-2">
+            @Html.DisplayNameFor(model => model.Assignment)
+        </dt>
+        <dd class="col-sm-10">
+            <table class="table">
                 <tr>
                     <th>Assignment</th>
                     <th>Topic</th>
                 </tr>
-                @foreach (var item in Model.Assignments)                {
+                @foreach (var item in Model.Assignment)
+                {
                     <tr>
                         <td>
-                            @Html.DisplayFor(modelItem => item.Course.Title)
-                        </td>
-                        <td>
-                            @Html.DisplayFor(modelItem => item.Grade)
+                            @Html.DisplayFor(modelItem => item.assignment.MemberID)
                         </td>
                     </tr>
                 }
-            </table>
+
         </dd>
 
     </dl>

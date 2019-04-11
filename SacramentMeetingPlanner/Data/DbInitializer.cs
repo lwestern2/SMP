@@ -58,370 +58,235 @@ namespace SacramentMeetingPlanner.Data
             var Assignment = new Assignment[]
             {
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-07").ID,
+                        MemberID=1,
+                        MeetingID=1,
                         assignment="OpeningPrayer"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Merideth").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-07").ID,
+                        MemberID=2,
+                        MeetingID=1,
                         assignment="ClosingPrayer"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-07").ID,
+                        MemberID=1,
+                        MeetingID=1,
                         assignment="Conducting"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Arturgo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-14").ID,
+                        MemberID=2,
+                        MeetingID=2,
                         assignment="OpeningPrayer"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Peggy").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-14").ID,
+                        MemberID=6,
+                        MeetingID=2,
                         assignment="ClosingPrayer"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-14").ID,
-                        assignment="Conducting"
-                    },
-                    new Assignment
-                    {
-                        MemberID=Members.Single(m => m.FirstName == "Yan").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-21").ID,
-                        assignment="OpeningPrayer"
-                    },
-                    new Assignment
-                    {
-                        MemberID=Members.Single(m => m.FirstName == "Merideth").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-21").ID,
-                        assignment="ClosingPrayer"
-                    },
-                    new Assignment
-                    {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-21").ID,
+                        MemberID=1,
+                        MeetingID=2,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Laura").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-28").ID,
+                        MemberID=5,
+                        MeetingID=3,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                            MemberID=Members.Single(m => m.FirstName == "Nino").ID,
-                            MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-28").ID,
+                        MemberID=2,
+                        MeetingID=3,
+                        assignment="ClosingPrayer"
+                    },
+                    new Assignment
+                    {
+                        MemberID=1,
+                        MeetingID=3,
+                        assignment="Conducting"
+                    },
+                    new Assignment
+                    {
+                        MemberID=7,
+                        MeetingID=4,
+                        assignment="OpeningPrayer"
+                    },
+                    new Assignment
+                    {
+                            MemberID=8,
+                            MeetingID=4,
                             assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-04-28").ID,
+                        MemberID=1,
+                        MeetingID=4,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-05").ID,
+                        MemberID=1,
+                        MeetingID=5,
                         assignment="OpeningPrayer"
                     },
                     new Assignment{
-                        MemberID=Members.Single(m => m.FirstName == "Merideth").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-05").ID,
+                        MemberID=2,
+                        MeetingID=5,
                         assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-05").ID,
+                        MemberID=3,
+                        MeetingID=5,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-12").ID,
+                        MemberID=3,
+                        MeetingID=6,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Gytis").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-12").ID,
+                        MemberID=4,
+                        MeetingID=6,
                         assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-12").ID,
+                        MemberID=3,
+                        MeetingID=6,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Yan").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-19").ID,
+                        MemberID=5,
+                        MeetingID=7,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Peggy").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-19").ID,
+                        MemberID=6,
+                        MeetingID=7,
                         assignment="Closing Prayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-19").ID,
+                        MemberID=3,
+                        MeetingID=7,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Laura").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-26").ID,
+                        MemberID=7,
+                        MeetingID=8,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                    MemberID=Members.Single(m => m.FirstName == "Nino").ID,
-                    MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-26").ID,
+                    MemberID=8,
+                    MeetingID=8,
                     assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-05-26").ID,
+                        MemberID=3,
+                        MeetingID=8,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-02").ID,
+                        MemberID=1,
+                        MeetingID=9,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Merideth").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-02").ID,
+                        MemberID=2,
+                        MeetingID=9,
                         assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-02").ID,
+                        MemberID=1,
+                        MeetingID=9,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Arturo").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-09").ID,
+                        MemberID=3,
+                        MeetingID=10,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Gytis").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-09").ID,
+                        MemberID=4,
+                        MeetingID=10,
                         assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-09").ID,
+                        MemberID=1,
+                        MeetingID=10,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Yan").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-16").ID,
+                        MemberID=5,
+                        MeetingID=11,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Peggy").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-16").ID,
+                        MemberID=6,
+                        MeetingID=11,
                         assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-16").ID,
+                        MemberID=1,
+                        MeetingID=11,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Laura").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-23").ID,
+                        MemberID=7,
+                        MeetingID=12,
                         assignment="OpeningPrayer"
                     },
                     new Assignment
                     {
-                    MemberID=Members.Single(m => m.FirstName == "Nino").ID,
-                    MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-23").ID,
+                    MemberID=8,
+                    MeetingID=12,
                     assignment="ClosingPrayer"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-23").ID,
+                        MemberID=1,
+                        MeetingID=12,
                         assignment="Conducting"
                     },
                     new Assignment
                     {
-                        MemberID=Members.Single(m => m.FirstName == "Yan").ID,
-                        MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-30").ID,
+                        MemberID=5,
+                        MeetingID=13,
                         assignment="Scripture Study"
                     },
                     new Assignment
                     {
-                            MemberID=Members.Single(m => m.FirstName == "Merideth").ID,
-                            MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-30").ID,
+                            MemberID=2,
+                            MeetingID=13,
                             assignment="Scripture Study"
                     },
                     new Assignment{
-                            MemberID=Members.Single(m => m.FirstName == "Carson").ID,
-                            MeetingID=Sacrament.Single(s => s.MeetingDateString == "2019-06-30").ID,
+                            MemberID=1,
+                            MeetingID=13,
                             assignment="Conducting"
                     }
                 };
             foreach (Assignment x in Assignment)
             {
                 context.Assignments.Add(x);
-            }
-            context.SaveChanges();
-
-            var Speaker = new Speaker[]
-            {
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Carson").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-07").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Merideth").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-07").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Arturo").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-14").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Gytis").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-14").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Yan").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-21").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Peggy").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-21").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Laura").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-28").ID,
-                        Topic="Scripture Study"
-                    },
-                    new Speaker{
-                    MemberID = Members.Single(c => c.FirstName == "Nino").ID,
-                    MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-04-28").ID,
-                    Topic="Scripture Study"
-                    },
-
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Carson").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-05").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Merideth").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-05").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Arturo").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-12").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Gytis").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-12").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Yan").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-19").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Peggy").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-26").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Laura").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-05-26").ID,
-                        Topic="Scripture Study"
-                    },
-                    new Speaker{
-                    MemberID = Members.Single(c => c.FirstName == "Nino").ID,
-                    MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-02").ID,
-                    Topic="Scripture Study"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Carson").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-02").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Merideth").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-09").ID,
-                        Topic="Prayer"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Arturo").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-09").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Gytis").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-16").ID,
-                        Topic="Faith"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Yan").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-16").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Peggy").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-23").ID,
-                        Topic="General Conference"
-                    },
-                    new Speaker{
-                        MemberID = Members.Single(c => c.FirstName == "Laura").ID,
-                        MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-23").ID,
-                        Topic="Scripture Study"
-                    },
-                    new Speaker{
-                    MemberID = Members.Single(c => c.FirstName == "Nino").ID,
-                    MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-30").ID,
-                    Topic="Scripture Study"
-                    },
-                    new Speaker{
-                    MemberID = Members.Single(c => c.FirstName == "Carson").ID,
-                    MeetingID = Sacrament.Single(c => c.MeetingDateString == "2019-06-30").ID,
-                    Topic="Scripture Study"
-                    }
-            };
-            foreach (Speaker z in Speaker)
-            {
-                context.Speakers.Add(z);
             }
             context.SaveChanges();
         }
