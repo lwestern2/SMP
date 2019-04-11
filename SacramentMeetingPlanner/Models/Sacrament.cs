@@ -16,12 +16,11 @@ namespace SacramentMeetingPlanner.Models
         [DisplayFormat(DataFormatString = "{0:MM-dd-yy}")]
         public DateTime MeetingDate { get; set; }
 
-        [Required]
         public string MeetingDateString { get; set; }
 
         [Required]
         [StringLength(150, MinimumLength = 3)]
-        [Display(Name = "Opening Prayer")]
+        [Display(Name = "Opening Hymn")]
         [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public string OpeningHymn { get; set; }
 
@@ -36,9 +35,5 @@ namespace SacramentMeetingPlanner.Models
         [Display(Name = "Closing Hymn")]
         [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public string ClosingHymn { get; set; }
-
-
-
-
     }
 }
