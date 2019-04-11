@@ -94,7 +94,6 @@ p {
 abbr[title],
 abbr[data-original-title] {
   text-decoration: underline;
-  -webkit-text-decoration: underline dotted;
   text-decoration: underline dotted;
   cursor: help;
   border-bottom: 0;
@@ -621,9 +620,7 @@ pre code {
 }
 
 .col {
-  -ms-flex-preferred-size: 0;
   flex-basis: 0;
-  -ms-flex-positive: 1;
   flex-grow: 1;
   max-width: 100%;
 }
@@ -828,9 +825,7 @@ pre code {
 
 @media (min-width: 576px) {
   .col-sm {
-    -ms-flex-preferred-size: 0;
     flex-basis: 0;
-    -ms-flex-positive: 1;
     flex-grow: 1;
     max-width: 100%;
   }
@@ -1000,9 +995,7 @@ pre code {
 
 @media (min-width: 768px) {
   .col-md {
-    -ms-flex-preferred-size: 0;
     flex-basis: 0;
-    -ms-flex-positive: 1;
     flex-grow: 1;
     max-width: 100%;
   }
@@ -1172,9 +1165,7 @@ pre code {
 
 @media (min-width: 992px) {
   .col-lg {
-    -ms-flex-preferred-size: 0;
     flex-basis: 0;
-    -ms-flex-positive: 1;
     flex-grow: 1;
     max-width: 100%;
   }
@@ -1344,9 +1335,7 @@ pre code {
 
 @media (min-width: 1200px) {
   .col-xl {
-    -ms-flex-preferred-size: 0;
     flex-basis: 0;
-    -ms-flex-positive: 1;
     flex-grow: 1;
     max-width: 100%;
   }
@@ -3615,7 +3604,6 @@ input[type="button"].btn-block {
   border-radius: 0.25rem;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;
 }
 
 .custom-select:focus {
@@ -3730,7 +3718,6 @@ input[type="button"].btn-block {
   background-color: transparent;
   -webkit-appearance: none;
   -moz-appearance: none;
-  appearance: none;
 }
 
 .custom-range:focus {
