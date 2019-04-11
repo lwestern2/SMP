@@ -1,170 +1,220 @@
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.input.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.output.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorCoreGenerate.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Create.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Delete.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlanner\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.input.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.output.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorCoreGenerate.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Create.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Delete.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\repos\SacramentMeetingPlannerBroken\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.dll
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.input.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.output.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorCoreGenerate.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Create.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Delete.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Create.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Delete.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Details.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Edit.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Index.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Create.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Delete.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Details.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Edit.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.deps.json
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.json
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.runtimeconfig.dev.json
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.dll
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\bin\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorAssemblyInfo.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfoInputs.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.AssemblyInfo.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.input.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.TagHelpers.output.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorCoreGenerate.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Create.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Delete.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Details.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Edit.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Assignments\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Create.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Delete.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Details.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Edit.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Members\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Create.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Delete.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Details.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Edit.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Speakers\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.Views.pdb
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Create.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Delete.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Details.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Edit.g.cshtml.cs
-C:\Users\humbl\source\New\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Index.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Create.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Delete.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Details.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Edit.g.cshtml.cs
-C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Razor\Views\Sacrament\Index.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.input.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.output.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorCoreGenerate.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.deps.json
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.json
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.dev.json
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CopyComplete
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Create.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Delete.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Details.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Edit.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlanner/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Index.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.deps.json
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.json
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.dev.json
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.input.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.output.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorCoreGenerate.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Create.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Delete.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Details.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Edit.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Index.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/repos/SacramentMeetingPlannerBroken/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CopyComplete
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.deps.json
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.json
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.dev.json
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.dll
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfo.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.input.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.output.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorCoreGenerate.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Create.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Delete.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Details.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Edit.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Index.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CopyComplete
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Create.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Delete.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Details.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Edit.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.deps.json
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.json
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.dev.json
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.dll
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csprojAssemblyReference.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfoInputs.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfo.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.input.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.output.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorCoreGenerate.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Create.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Delete.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Details.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Edit.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Create.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Delete.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Details.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Edit.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CopyComplete
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Create.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Delete.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Details.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Edit.g.cshtml.cs
+C:/Users/humbl/source/New/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Index.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Create.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Delete.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Details.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Edit.g.cshtml.cs
+C:/Users/leahb/vs c#/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.deps.json
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.json
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.runtimeconfig.dev.json
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.dll
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/bin/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csprojAssemblyReference.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CoreCompileInputs.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorAssemblyInfo.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfoInputs.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.AssemblyInfo.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.input.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.TagHelpers.output.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorCoreGenerate.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Create.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Delete.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Details.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Edit.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Assignments/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Create.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Delete.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Details.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Edit.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Members/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Create.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Delete.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Details.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Edit.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Sacrament/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Create.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Delete.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Details.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Edit.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/Speakers/Index.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cache
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.RazorTargetAssemblyInfo.cs
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.Views.pdb
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.dll
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.pdb
+/Users/hiramtodd/Documents/GitHub/SMP/SacramentMeetingPlanner/obj/Debug/netcoreapp2.2/SacramentMeetingPlanner.csproj.CopyComplete

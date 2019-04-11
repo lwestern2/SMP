@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{FC83E417-4C20-4F32-B9E7-4468AA66F52F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Models/Speaker.cs">
+    <Files>
+      <File FileName="SacramentMeetingPlanner/Views/Members/Details.cshtml" Line="19" Column="30" />
+      <File FileName="SacramentMeetingPlanner/Controllers/AssignmentsController.cs" Line="13" Column="52" />
+      <File FileName="SacramentMeetingPlanner/Models/Assignment.cs" Line="23" Column="1" />
+      <File FileName="SacramentMeetingPlanner/Models/Member.cs" Line="8" Column="6" />
+      <File FileName="SacramentMeetingPlanner/Models/ErrorViewModel.cs" Line="1" Column="1" />
+      <File FileName="SacramentMeetingPlanner/Models/Sacrament.cs" Line="23" Column="47" />
+      <File FileName="SacramentMeetingPlanner/Models/Speaker.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SacramentMeetingPlanner" expanded="True">
+            <Node name="SacramentMeetingPlanner" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="Speaker.cs" selected="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Members" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SacramentMeetingPlanner PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
