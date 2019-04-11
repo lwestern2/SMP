@@ -14,6 +14,7 @@ namespace SacramentMeetingPlanner.Models
 
         [Required]
         [StringLength(150, MinimumLength = 3)]
+        [Display(Name = "Assignment")]
         [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public string assignment { get; set; }
 
@@ -21,10 +22,6 @@ namespace SacramentMeetingPlanner.Models
         [StringLength(150, MinimumLength = 3)]
         [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public string Topic { get; set; }
-
-        //public Member Member { get; set; }
-        //public Assignment Assignments { get; set; }
-
 
     }
 }
