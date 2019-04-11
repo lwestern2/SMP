@@ -13,7 +13,7 @@ namespace SacramentMeetingPlanner.Models
         [Required]
         [DataType(DataType.Date)]
         [Display(Name = "Meeting Date")]
-        [DisplayFormat(DataFormatString = "{0:MM-dd-yy}", ApplyFormatInEditMode = true)]
+        [DisplayFormat(DataFormatString = "{0:MM-dd-yy}")]
         public DateTime MeetingDate { get; set; }
 
         [Required]

@@ -20,17 +20,14 @@ namespace SacramentMeetingPlanner.Models
         [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public string LastName { get; set; }
 
-        [Required]
-        [StringLength(150, MinimumLength = 3)]
         [Display(Name = "Conducting")]
-        [RegularExpression(@"^[A-Z]+[a-zA-Z''-'\s]*$")]
         public bool Bishopric { get; set; }
 
         //public Assignment Assignments { get; set; }
         //public Speaker Speakers { get; set; }
 
 
-        //public ICollection<Assignment> Assignment { get; set; }
+        public ICollection<Assignment> Assignment { get; set; }
         //public ICollection<Speaker> Speaker { get; set; }
 
     }

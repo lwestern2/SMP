@@ -54,6 +54,8 @@ namespace SacramentMeetingPlanner.Controllers
             }
 
             var member = await _context.Members
+                .Include(s => s.Assignment)
+                    .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (member == null)
             {
@@ -74,13 +76,24 @@ namespace SacramentMeetingPlanner.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,FirstName,LastName,Bishopric")] Member member)
+        public async Task<IActionResult> Create([Bind("FirstName,LastName,Bishopric")] Member member)
         {
-            if (ModelState.IsValid)
+            try
             {
-                _context.Add(member);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                if (ModelState.IsValid)
+                {
+                    _context.Add(member);
+                    await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
+                }
+            }
+
+            catch (DbUpdateException /* ex */)
+            {
+                //Log the error (uncomment ex variable name and write a log.
+                ModelState.AddModelError("", "Unable to save changes. " +
+                    "Try again, and if the problem persists " +
+                    "see your system administrator.");
             }
             return View(member);
         }
@@ -104,40 +117,39 @@ namespace SacramentMeetingPlanner.Controllers
         // POST: Members/Edit/5
         // To protect from overposting attacks, please enable the specific properties you want to bind to, for 
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+        [HttpPost, ActionName("Edit")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,FirstName,LastName,Bishopric")] Member member)
+        public async Task<IActionResult> EditPost(int? id)
         {
-            if (id != member.ID)
+            if (id == null)
             {
                 return NotFound();
             }
 
-            if (ModelState.IsValid)
+            var memberToUpdate = await _context.Members.FirstOrDefaultAsync(m => m.ID == id);
+            if (await TryUpdateModelAsync<Member>(
+                memberToUpdate, 
+                "", 
+                m => m.FirstName, m => m.LastName, m => m.Bishopric))
             {
                 try
                 {
-                    _context.Update(member);
                     await _context.SaveChangesAsync();
+                    return RedirectToAction(nameof(Index));
                 }
-                catch (DbUpdateConcurrencyException)
+                catch (DbUpdateException)
                 {
-                    if (!MemberExists(member.ID))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
+                    //Log the error (uncomment ex variable name and write a log.)
+                    ModelState.AddModelError("", "Unable to save changes. " +
+                        "Try again, and if the problem persists, " +
+                        "see your system administrator.");
                 }
-                return RedirectToAction(nameof(Index));
             }
-            return View(member);
+            return View(memberToUpdate);
         }
 
         // GET: Members/Delete/5
-        public async Task<IActionResult> Delete(int? id)
+        public async Task<IActionResult> Delete(int? id, bool? saveChangesError = false)
         {
             if (id == null)
             {
@@ -145,10 +157,18 @@ namespace SacramentMeetingPlanner.Controllers
             }
 
             var member = await _context.Members
+                .AsNoTracking()
                 .FirstOrDefaultAsync(m => m.ID == id);
             if (member == null)
             {
                 return NotFound();
+            }
+
+            if (saveChangesError.GetValueOrDefault())
+            {
+                ViewData["ErrorMessage"] =
+                    "Delete failed. Try again, and if the problem persists " +
+                    "see your system administrator.";
             }
 
             return View(member);
@@ -160,9 +180,22 @@ namespace SacramentMeetingPlanner.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var member = await _context.Members.FindAsync(id);
-            _context.Members.Remove(member);
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
+            if (member == null)
+            {
+                return RedirectToAction(nameof(Index));
+            }
+
+            try
+            {
+                _context.Members.Remove(member);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            catch (DbUpdateException)
+            {
+                //Log the error (uncomment ex variable name and write a log.)
+                return RedirectToAction(nameof(Delete), new { id = id, saveChangesError = true });
+            }
         }
 
         private bool MemberExists(int id)
