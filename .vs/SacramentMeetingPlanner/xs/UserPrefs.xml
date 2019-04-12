@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{FC83E417-4C20-4F32-B9E7-4468AA66F52F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Views/Assignments/Details.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Models/Sacrament.cs">
     <Files>
-      <File FileName="SacramentMeetingPlanner/Views/Assignments/Details.cshtml" Line="10" Column="22" />
+      <File FileName="SacramentMeetingPlanner/Models/Assignment.cs" Line="13" Column="43" />
+      <File FileName="SacramentMeetingPlanner/Models/Member.cs" Line="1" Column="1" />
+      <File FileName="SacramentMeetingPlanner/Models/Sacrament.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -9,15 +11,18 @@
           <Node name="SacramentMeetingPlanner" expanded="True">
             <Node name="SacramentMeetingPlanner" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Sacrament.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
-                <Node name="Assignments" expanded="True">
-                  <Node name="Details.cshtml" selected="True" />
-                </Node>
+                <Node name="Assignments" expanded="True" />
               </Node>
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
