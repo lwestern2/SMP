@@ -9,7 +9,11 @@ namespace SacramentMeetingPlanner.Models
     public class Assignment
     {
         public int ID { get; set; }
+
+        [Display(Name = "Member")]
         public int MemberID { get; set; }
+
+        [Display(Name = "Meeting")]
         public int MeetingID { get; set; }
 
         [Required]
