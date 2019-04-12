@@ -60,109 +60,128 @@ namespace SacramentMeetingPlanner.Data
                     new Assignment{
                         MemberID=1,
                         MeetingID=1,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=2,
                         MeetingID=1,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=1,
                         MeetingID=1,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=2,
                         MeetingID=2,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=6,
                         MeetingID=2,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=1,
                         MeetingID=2,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=5,
                         MeetingID=3,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=2,
                         MeetingID=3,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=3,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=7,
                         MeetingID=4,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
-                            MemberID=8,
-                            MeetingID=4,
-                            assignment="ClosingPrayer"
+                        MemberID=8,
+                        MeetingID=4,
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=4,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=5,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment{
                         MemberID=2,
                         MeetingID=5,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=3,
                         MeetingID=5,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=3,
                         MeetingID=6,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=4,
                         MeetingID=6,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=3,
                         MeetingID=6,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=5,
                         MeetingID=7,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
@@ -174,114 +193,284 @@ namespace SacramentMeetingPlanner.Data
                     {
                         MemberID=3,
                         MeetingID=7,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=7,
                         MeetingID=8,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
-                    MemberID=8,
-                    MeetingID=8,
-                    assignment="ClosingPrayer"
+                        MemberID=8,
+                        MeetingID=8,
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=3,
                         MeetingID=8,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=9,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=2,
                         MeetingID=9,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=9,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=3,
                         MeetingID=10,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=4,
                         MeetingID=10,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=10,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=5,
                         MeetingID=11,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=6,
                         MeetingID=11,
-                        assignment="ClosingPrayer"
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=11,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=7,
                         MeetingID=12,
-                        assignment="OpeningPrayer"
+                        assignment="OpeningPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
-                    MemberID=8,
-                    MeetingID=12,
-                    assignment="ClosingPrayer"
+                        MemberID=8,
+                        MeetingID=12,
+                        assignment="ClosingPrayer",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=1,
                         MeetingID=12,
-                        assignment="Conducting"
+                        assignment="Conducting",
+                        Topic=""
                     },
                     new Assignment
                     {
                         MemberID=5,
                         MeetingID=13,
-                        assignment="Scripture Study"
+                        assignment="Speaker",
+                        Topic="Scripture Study"
                     },
                     new Assignment
                     {
                             MemberID=2,
                             MeetingID=13,
-                            assignment="Scripture Study"
+                            assignment="Speaker",
+                            Topic="Scripture Study"
                     },
                     new Assignment{
                             MemberID=1,
                             MeetingID=13,
-                            assignment="Conducting"
+                            assignment="Conducting",
+                            Topic=""
+                    },
+                    new Assignment{
+                        MemberID=1,
+                        MeetingID=1,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=2,
+                        MeetingID=1,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=3,
+                        MeetingID=2,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=4,
+                        MeetingID=2,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=5,
+                        MeetingID=3,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=6,
+                        MeetingID=3,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=7,
+                        MeetingID=4,
+                        assignment="Speaker",
+                        Topic="Scripture Study"
+                    },
+                    new Assignment{
+                        MemberID=8,
+                        MeetingID=4,
+                        assignment="Speaker",
+                        Topic="Scripture Study"
+                    },
+
+                    new Assignment{
+                        MemberID=1,
+                        MeetingID=5,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=2,
+                        MeetingID=5,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=3,
+                        MeetingID=6,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=4,
+                        MeetingID=6,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=5,
+                        MeetingID=7,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=6,
+                        MeetingID=8,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=7,
+                        MeetingID=8,
+                        assignment="Speaker",
+                        Topic="Scripture Study"
+                    },
+                    new Assignment{
+                        MemberID=8,
+                        MeetingID=9,
+                        assignment="Speaker",
+                        Topic="Scripture Study"
+                    },
+                    new Assignment{
+                        MemberID=1,
+                        MeetingID=9,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=2,
+                        MeetingID=10,
+                        assignment="Speaker",
+                        Topic="Prayer"
+                    },
+                    new Assignment{
+                        MemberID=3,
+                        MeetingID=10,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=4,
+                        MeetingID=11,
+                        assignment="Speaker",
+                        Topic="Faith"
+                    },
+                    new Assignment{
+                        MemberID=5,
+                        MeetingID=11,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=6,
+                        MeetingID=12,
+                        assignment="Speaker",
+                        Topic="General Conference"
+                    },
+                    new Assignment{
+                        MemberID=7,
+                        MeetingID=12,
+                        assignment="Speaker",
+                        Topic="Sacrifice"
+                    },
+                    new Assignment{
+                        MemberID=8,
+                        MeetingID=13,
+                        assignment="Speaker",
+                        Topic="Ministering"
+                    },
+                    new Assignment{
+                        MemberID=1,
+                        MeetingID=13,
+                        assignment="Speaker",
+                        Topic="Scripture Study"
                     }
                 };
             foreach (Assignment x in Assignment)
@@ -289,6 +478,7 @@ namespace SacramentMeetingPlanner.Data
                 context.Assignments.Add(x);
             }
             context.SaveChanges();
+
         }
     }
 }

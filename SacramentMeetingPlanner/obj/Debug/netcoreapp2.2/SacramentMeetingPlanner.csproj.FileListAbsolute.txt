@@ -207,3 +207,4 @@ C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\Sacrame
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.dll
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.pdb
 C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csproj.CopyComplete
+C:\Users\leahb\vs c#\SMP\SacramentMeetingPlanner\obj\Debug\netcoreapp2.2\SacramentMeetingPlanner.csprojAssemblyReference.cache
