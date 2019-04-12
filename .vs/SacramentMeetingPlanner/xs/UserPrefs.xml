@@ -1,7 +1,10 @@
 ﻿<Properties StartupConfiguration="{FC83E417-4C20-4F32-B9E7-4468AA66F52F}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="SacramentMeetingPlanner/Views/Assignments/Details.cshtml">
     <Files>
-      <File FileName="SacramentMeetingPlanner/Views/Assignments/Details.cshtml" Line="10" Column="22" />
+      <File FileName="SacramentMeetingPlanner/Models/Assignment.cs" Line="27" Column="2" />
+      <File FileName="SacramentMeetingPlanner/Models/Member.cs" Line="9" Column="36" />
+      <File FileName="SacramentMeetingPlanner/Models/Sacrament.cs" Line="7" Column="41" />
+      <File FileName="SacramentMeetingPlanner/Views/Assignments/Details.cshtml" Line="10" Column="20" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,6 +21,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
